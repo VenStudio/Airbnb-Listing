@@ -1,3 +1,5 @@
+**This project is made for the "Exploratory Data Analysis" course from [Electro PI](https://electropi.ai/ "Go To Electro PI page")**
+
 # Overview
 This project focuses on conducting an exploratory data analysis (EDA) of Airbnb listings in Dublin city, Leinster, Ireland. The objective is to provide insights into key factors influencing demand, pricing trends, property types, and location preferences within the Airbnb market.
 ## What to expect
